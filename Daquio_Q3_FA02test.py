@@ -14,4 +14,11 @@ print("Mok's study hours:", study_hours[0])
 print("Updating Mok's Thursday study time to 2 hours.")
 study_hours[0][3] = 2
 
+
 print("Mok's updated study hours:", study_hours[0])
+
+"""
+I chose this dataset because it is relatable. As a student, I really need to dedicate ample time for my academics, just like what my friends do. Moreover, 
+it made accessing specific data, like Peach's study time on Wednesday, easy by using row and column indexes. The easiest part was retrieving and modifying 
+values, while remembering the correct index positions took more attention.
+"""
